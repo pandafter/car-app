@@ -15,7 +15,7 @@ const Hero = () => {
     <div className='hero'>
         <div className='felx-1 pt-36 padding-x'>
             <h1 className='hero__title'> Find, book, or rent a car — quicly and easily!</h1>
-            <p className='hero__subtitle'>Streamline your car rental experience whit our efforless booking process.</p>
+            <p className='hero__subtitle'> your car rental experience whit our efforless booking process.</p>
             <CustomButton
             title="explore Cars"
             containerStyles="bg-primary-blue text-white rounded-full mt-10"
